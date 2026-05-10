@@ -18,7 +18,11 @@
 
 | Room | Difficulté | Outils | Date |
 |------|-----------|--------|------|
-| 🔄 *En cours...* | - | - | - |
+| 🔄 Commencez votre parcours de cybersécurité |  | - | - |
+| 🔄 Introduction à la sécurité offensive |  | - | - |
+| 🔄 Intro de sécurité défensive |  | - | - |
+| 🔄 Compétences en recherche |  | - | - |
+| 🔄 Compétences en recherche |  | - | - |
 
 ---
 
