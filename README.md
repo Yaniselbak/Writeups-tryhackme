@@ -24,7 +24,7 @@
 | 🔄 Defensive Security (2) | Easy | SIEM (simulation), outil de réputation d'IP | Analyse d'alertes |
 | 🔄 Junior Security Analyst Intro |	Easy | SIEM (simulation), ticketing / escalade | Métier d'analyste SOC N1 |
 | 🔄 Search Skills | Easy | Google Dorks, Shodan, Censys, VirusTotal, Have I Been Pwned, Exploit-DB, NVD (CVE), pages man | Recherche avancée & OSINT |
-| 🔄 Linux | Easy | Terminal bash : ls, cd, pwd, cat, echo, whoami, find, grep | Commandes Linux de base |
+| 🔄 Linux Fundamentals pt1 | Easy | Terminal bash : ls, cd, pwd, cat, echo, whoami, find, grep | Commandes Linux de base |
 
 ---
 
