@@ -28,15 +28,23 @@
 
 ---
 
-## 🛠️ Outils récurrents
+## 🛠️ Outils découverts / utilisés
 
- Catégorie  	Outils
-🔴 Offensif / Reconnaissance	gobuster
-🔵 Défensif / SOC	SIEM, analyse d'alertes, réputation d'IP
-🔎 OSINT / Recherche	Google Dorks, Shodan, Censys, VirusTotal, Have I Been Pwned, Exploit-DB, NVD
-🐧 Système	Linux (bash) : ls, cd, cat, find, grep, man
-🐍 Développement (projets perso)	Python : socket, concurrent.futures, re
-📚 En cours d'apprentissage (parcours Jr Penetration Tester)	nmap, hydra, Burp Suite, Metasploit, netcat
+| Outil |	Catégorie |	Utilité |	Statut |
+|------|-----------|--------|------|
+| gobuster	| 🔴 Offensif |	Découverte de répertoires cachés |	✅ Utilisé |
+| SIEM	| 🔵 Défensif |	Analyse d'alertes de sécurité |	✅ Utilisé |
+| VirusTotal	| 🔵Défensif | Analyse de fichiers / IP suspects | ✅ Utilisé |
+| Google Dorks	| 🔎 OSINT	| Recherche avancée	| ✅ Utilisé |
+| Shodan	| 🔎 OSINT	Recherche d'appareils exposés	| ✅ Utilisé |
+| Exploit-DB / NVD	| 🔎 OSINT	Recherche de vulnérabilités (CVE)	| ✅ Utilisé |
+| Bash	| 🐧 Système	Commandes Linux	| ✅ Utilisé |
+| Python	| 🐍 Dév	Scripts de scan et d'analyse de logs	| ✅ Utilisé |
+| nmap	| 🔴 Offensif	Scan de ports et services	| 📚 En apprentissage |
+| hydra	| 🔴 Offensif	Attaque par force brute	| 📚 En apprentissage |
+| Burp Suite |	🔴 Offensif	Interception de requêtes web	| 📚 En apprentissage |
+| Metasploit |	🔴 Offensif	Exploitation de vulnérabilités	| 📚 En apprentissage |
+| netcat	| 🔴 Offensif	Connexions réseau / reverse shell	| 📚 En apprentissage |
 
 ---
 
