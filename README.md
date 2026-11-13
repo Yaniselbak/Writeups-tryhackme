@@ -31,7 +31,7 @@
 ## 🛠️ Outils découverts / utilisés
 
 | Outil | Catégorie | Utilité | Statut |
-|-------|-----------|---------|--------|
+|------|-----------|--------|------|
 | `gobuster` | 🔴 Offensif | Découverte de répertoires cachés | ✅ Utilisé |
 | SIEM | 🔵 Défensif | Analyse d'alertes de sécurité | ✅ Utilisé |
 | VirusTotal | 🔵 Défensif | Analyse de fichiers / IP suspects | ✅ Utilisé |
